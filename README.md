@@ -67,7 +67,7 @@
 ###
 
 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400;"/>
+<img src='https://memer-new.vercel.app/' style="height: 40;"/>
 
 ### 
 
