@@ -64,14 +64,6 @@
 
 <img src="https://raw.githubusercontent.com/BastienDmr/BastienDmr/output/snake.svg" alt="Snake animation" />
 
-###
-
-<h3 align="left">😂 Random Dev Meme</h3>
-
-###
-
-<img height: "40" src="https://memer-new.vercel.app/" />
-
 ### 
 
 <h1 align="center">My projects</h1>
