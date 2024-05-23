@@ -65,3 +65,13 @@
 <img src="https://raw.githubusercontent.com/BastienDmr/BastienDmr/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<h1 align="center">My projects</h1>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.giphy.com/z835RsRqQHOlC4rsBr.webp"  />
+</div>
+
+###
