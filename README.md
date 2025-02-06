@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h3 align="center">A passionate full-stack JS developer from France. I love coding with React on the frontend and I like MySQl, Express on the backend. I code with VScode.</h3>
+<h3 align="center">A passionate full-stack JS developer from France. I love coding with React.JS on the frontend and I like MySQl, Express on the backend. I code with VScode.</h3>
 
 ###
 
